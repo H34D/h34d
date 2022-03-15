@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently the CTO of [Chikai AG](https://github.com/chikai-io) - [website](https://chikai.io)
 - 🌱 My current side project is [Umlaut Games](https://github.com/umlaut-games) - [website](https://umlaut.games)
-  - We release [Cräft!](https://github.com/craeftgame) in 2019 - [website](https://cräft.com)
+  - We released [Cräft!](https://github.com/craeftgame) in 2019 - [website](https://cräft.com)
   - We are working on a 2D/2.5D Game Engine for our own products
   - We are working on a new Title ..
 - 🥮 Where i come from
