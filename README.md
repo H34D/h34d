@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently the CTO of [Chikai AG](https://github.com/chikai-io) - [website](https://chikai.io)
+- 🔭 I am Senior Blockchain & Metaverse Architect
 - 🌱 My current side project is [Umlaut Games](https://github.com/umlaut-games) - [website](https://umlaut.games)
   - We released [Cräft!](https://github.com/craeftgame) in 2019 - [website](https://cräft.com)
   - We are working on a 2D/2.5D Game Engine for our own products
@@ -9,6 +9,7 @@
   - 20+ Years in almost all disciplines of software development
   - 10+ Years experience in Corporate Software development in the Automotive Banking sector
   - 5+ Years experience with Blockchain technology
+  - Former CTO of [Chikai AG](https://github.com/chikai-io) - [website](https://chikai.io)
   - Founding member of [Keyko GmbH](https://github.com/keyko-io) - [website](https://keyko.io)
   - Former member of the Founding Team [Ocean Protocol](https://github.com/oceanprotocol) - [website](https://oceanprotocol.com)
   - Former [BigchainDB](https://github.com/bigchaindb) - [website](https://bigchaindb.com)
