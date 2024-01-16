@@ -10,7 +10,7 @@
   - 10+ Years experience in Corporate Software development in the Automotive Banking sector
   - 5+ Years experience with Blockchain technology
   - Former CTO of [Chikai AG](https://github.com/chikai-io) - [website](https://chikai.io)
-  - Founding member of [Keyko GmbH](https://github.com/keyko-io) - [website](https://keyko.io)
+  - Founding member of [Keyko AG](https://github.com/keyko-io) - [website](https://keyko.io)
   - Former member of the Founding Team [Ocean Protocol](https://github.com/oceanprotocol) - [website](https://oceanprotocol.com)
   - Former [BigchainDB](https://github.com/bigchaindb) - [website](https://bigchaindb.com)
   - Founded one Web 2.0 and one Web 3.0 Company
